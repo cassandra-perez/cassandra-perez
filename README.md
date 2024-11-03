@@ -13,6 +13,8 @@ Cassandra Jade Aliyah C. Perez
   North Fairview High School, Class of 2017-2021
 - **Senior High School Diploma**  
   New Era University, Class of 2021-2023
+- **Bachelor of Science in Information Technology**  
+  New Era University, Class of 2023-Present
   
 ### Certifications
 - **SQL and Relational Databases 101** - Cognitive Class
