@@ -1,5 +1,5 @@
 
-## About Me  👋
+## About Myself  👋
 
 ### Name
 Cassandra Jade Aliyah C. Perez
