@@ -17,8 +17,7 @@ Cassandra Jade Aliyah C. Perez
   New Era University, Class of 2023-Present
   
 ### Certifications
-- **SQL and Relational Databases 101**
--  https://courses.cognitiveclass.ai/certificates/af187790a9b841de952d4ffd96bd78ee 
+- **SQL and Relational Databases 101** (https://courses.cognitiveclass.ai/certificates/af187790a9b841de952d4ffd96bd78ee)
 
 ### Skillsets
 - **Soft Skills:** Communication, Problem-Solving, Teamwork
