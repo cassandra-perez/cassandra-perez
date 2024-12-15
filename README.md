@@ -13,13 +13,13 @@ Cassandra Jade Aliyah C. Perez
   New Era University, Class of 2023-Present
   
 ### Certifications
-- **SQL and Relational Databases 101** (https://courses.cognitiveclass.ai/certificates/af187790a9b841de952d4ffd96bd78ee)
+- **SQL and Relational Databases 101** https://courses.cognitiveclass.ai/certificates/af187790a9b841de952d4ffd96bd78ee
 - **Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate**
-- https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5443400&trackId=OCI24AICFA&key=1718d3784c49e847c3097be46663be45072d7f22 
+https://docs.google.com/document/d/1CfAClmhqdVsUOGZYPHr3_YdUAGFFqvUSgCPdeYkYuKk/edit?usp=sharing  
 - **Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate**
-- https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5443400&trackId=OCI2024DCFA&key=b7aae2325b6fd990ffc947dc1e09c506c1a38a14
+https://docs.google.com/document/d/1BUbczKYqbPU1lmt72q6pT32EV9nHJ0tCRadtn0dYBXw/edit?usp=sharing
 - **Oracle Cloud Infrastructure 2024 Certified Foundations Associate**
-- https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5443400&trackId=OCI2024FNDCFA&key=fecc81fbad9f5afde9974f7edefa49691b5c8c1c
+https://docs.google.com/document/d/1Oz-5XgoOkZcS1ywR2TlYvxHvnG3arkroiJ4kvakudc0/edit?usp=sharing
 ### Skillsets
 - **Soft Skills:** Communication, Problem-Solving, Teamwork
 - **Data Analysis:** Excel, Google Sheets
